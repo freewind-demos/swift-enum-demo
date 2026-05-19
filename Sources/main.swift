@@ -51,7 +51,7 @@ enum Color {
 print("颜色: \(Color.blue.description())")
 
 // ============ 枚举递归 ============
-enum ArithmeticExpression {
+indirect enum ArithmeticExpression {
     case number(Int)
     case addition(ArithmeticExpression, ArithmeticExpression)
     case multiplication(ArithmeticExpression, ArithmeticExpression)
