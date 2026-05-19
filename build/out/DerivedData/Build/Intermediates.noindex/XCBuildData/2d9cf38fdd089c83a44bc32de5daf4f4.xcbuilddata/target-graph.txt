@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_enum_demo' in project 'swift_enum_demo' (no dependencies)
